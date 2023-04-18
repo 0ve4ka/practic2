@@ -11,7 +11,7 @@ namespace ConsoleApp1
         //My name is Artem and i am Author
         static void PrintFunction()
         {
-            Console.WriteLine("Try this method");
+            Console.WriteLine("This method is not interesting");
         }
         static void Main(string[] args)
         {

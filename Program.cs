@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     class Program
     {
+        //My name is Artem and i am Author
         static void PrintFunction()
         {
             Console.WriteLine("Try this method");

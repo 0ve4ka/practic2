@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void PrintFunction()
         {
-            Console.WriteLine("Try this method");
+            Console.WriteLine("This method is not interesting");
         }
         static void Main(string[] args)
         {

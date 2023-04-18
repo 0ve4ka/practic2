@@ -8,6 +8,10 @@ namespace ConsoleApp1
 {
     class Program
     {
+        static void PrintFunction()
+        {
+            Console.WriteLine("Try this method");
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Hi! How are you?");

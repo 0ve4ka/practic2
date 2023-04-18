@@ -12,6 +12,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hi! How are you?");
             Console.WriteLine("My name's Arten. And your?");
+          
+            Console.WriteLine("Hi! I'm good!");
+            Console.WriteLine("My name's Filipp");     
         }
     }
 }
